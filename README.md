@@ -1,6 +1,8 @@
 # python
-#python program to print first 10 natural numbers
+#calculate the sum of all the numbers from 1to 10
 i=1
+x=0
 while(i<=10):
-    print(i)
+    x=x+i
     i+=1
+print(x)
